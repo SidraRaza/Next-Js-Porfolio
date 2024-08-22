@@ -43,7 +43,7 @@ export default function Header() {
               Hello, I Am Sidra Raza
             </h1>
             <p className="sm:text-lg md:text-2xl text-white pt-4 md:pt-10 text-justify lg:px-20 md:px-10">
-          "Hello! I'm a web developer and future Generative Cloud AI Engineer with a passion for building cutting-edge solutions. 
+              "Hello! I'm a web developer and future Generative Cloud AI Engineer with a passion for building cutting-edge solutions. 
              With expertise in web development and a keen interest in AI and cloud technology, I'm always looking to push the boundaries
              of what's possible.  Plus, I'm also a graphic designer, bringing a creative touch to my work. Let's explore the intersection 
               of technology and innovation together!"</p>
